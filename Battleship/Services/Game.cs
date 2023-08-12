@@ -54,6 +54,6 @@ public class Game : IGame
         _player1.PrintBoards();
 
         // Uncomment to cheat and see opponent's board :) 
-        // _player2.OutputBoards();
+        //_player2.PrintBoards();
     }
 }
