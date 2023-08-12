@@ -83,7 +83,7 @@ public abstract class Player
         try
         {
             stringBuilder.AppendLine("Own Board:                          Firing Board:");
-            stringBuilder.AppendLine("   A B C D E F H G I J                    A B C D E F H G I J");
+            stringBuilder.AppendLine("   A B C D E F G H I J                    A B C D E F G H I J");
 
             for (var row = 0; row < 10; row++)
             {
